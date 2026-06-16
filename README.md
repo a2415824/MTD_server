@@ -98,10 +98,3 @@ The server defaults can be changed in `src/main.cpp`:
 | Cache Capacity | `100` items | `Server.h` → `LRUCache cache{100,30}` |
 | Cache TTL | `30` seconds | `Server.h` → `LRUCache cache{100,30}` |
 
-## 📚 Detailed Documentation
-
-For an in-depth explanation of every component and how they work together, see **[README_DETAILED.md](README_DETAILED.md)**.
-
-## 📄 License
-
-This project is for educational purposes. Feel free to use, modify, and learn from it!
